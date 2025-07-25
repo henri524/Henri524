@@ -13,10 +13,7 @@
 #### 🔹 [Tela Única GVC – Beta 2.0 (Modo Escuro)](https://henri524.github.io/tela-unica-gvc/)
 Sistema interativo com visual moderno em modo escuro. Simula parcelamentos, descontos, boletos e cartão de crédito com facilidade.
 
-#### 🔹 [Tela Única GVC – Beta 1.0 Melhorado](https://henri524.github.io/tela-unica-gvc-beta1/)
-Versão com interface clara e funções completas para simular cobranças com desconto, visualizar parcelas e gerar valores de forma automática.
 
----
 
 ### 🛠️ Tecnologias que estou aprendendo:
 - HTML5 / CSS3 / JavaScript
