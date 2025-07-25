@@ -20,6 +20,8 @@ Sistema interativo com visual moderno em modo escuro. Simula parcelamentos, desc
 - Git e GitHub
 - Lógica de programação
 - Desenvolvimento de protótipos interativos
+- integração com IA
+  
 
 ---
 
