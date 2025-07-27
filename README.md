@@ -24,6 +24,4 @@ Sistema interativo com visual moderno em modo escuro. Simula parcelamentos, desc
   
 
 ---
-
-### 📫 Contato: 17981946788
 - **E-mail:** deoliveira1702@gmail.com
