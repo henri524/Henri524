@@ -21,6 +21,8 @@ Sistema interativo com visual moderno em modo escuro. Simula parcelamentos, desc
 - Lógica de programação
 - Desenvolvimento de protótipos interativos
 - integração com IA
+
+  criação de site em lowcode, com objetivo em facilitar a vida do investidor e a economia de tempo com resultados mais precisos, acompanhe um dos meus projetos novo https://dvcarriopreto.lovable.app/
   
 
 ---
