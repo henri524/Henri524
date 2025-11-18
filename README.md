@@ -2,7 +2,6 @@
 # 👋 Olá, eu sou o Henrique!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💼 Atuo como operador de cobrança na GVC Rodobens  
 🚀 Desenvolvi soluções reais para melhorar o atendimento da equipe de cobrança  
 💡 Crio sistemas focados em **facilidade de uso** e **eficiência no processo**
 
